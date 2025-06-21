@@ -57,8 +57,12 @@ Choose Operation:
 ---
 
 ## 📸 Output Screenshot
-![Image](https://github.com/user-attachments/assets/14b8dc78-f236-4902-8d1e-c55960301691)
 
-![Image](https://github.com/user-attachments/assets/ae33c672-ad63-4bea-a6d9-73527c279f71)
+![IMG-20250620-WA0004](https://github.com/user-attachments/assets/a29320da-47a8-42ac-9419-91786e9e4da3)
 
-![Image](https://github.com/user-attachments/assets/138930f4-88f0-4594-9d7b-74b65e135e13)
+![IMG-20250620-WA0006](https://github.com/user-attachments/assets/c3b78bb6-4266-4a5a-ae5b-139a53b97007)
+
+![IMG-20250620-WA0007](https://github.com/user-attachments/assets/7de75538-c619-4e2c-8a87-a9950020dcb4)
+
+
+
